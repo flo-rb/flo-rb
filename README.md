@@ -10,7 +10,6 @@
 - 🔐 Passionate about **cybersecurity** and ethical hacking  
 - 🌐 Also deeply interested in **web development** — I love turning ideas into real interactive sites   
 - 🎯 I'm all about **constant growth**, **learning**, and building **useful skills**  
-- 🏆 Currently maintaining the website of my **former karate club** 💪 → [Check it out here!](https://lemeekarate.fr/)
 
 ---
 
@@ -34,7 +33,7 @@
 
 Here are a few things I've worked on or maintained:
 
-- 🥋 **Karate Club Website** – Static website I maintain for my old sports club → [Visit site](https://your-karate-club-site.com)  
+- 🥋 **Karate Club Website** – Static website I maintain for my old sports club → [Visit site](https://lemeekarate.fr/)  
 - 🌐 **Portfolio in progress** – A personal website project to showcase my skills and goals (coming soon!)
 
 ---
