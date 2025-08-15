@@ -1,56 +1,49 @@
 # 👋 Hey there! I'm Florence
 
-🎓 I'm a **1st-year Computer Science student** with a strong interest in **networking** and **web development**.  
-💻 I dream of diving deep into the world of **cybersecurity** and becoming a **pentester** one day!
+🎓 **Computer Science Student** passionate about **cybersecurity** and **web development**  
+🔐 Aspiring **pentester** with a love for ethical hacking and continuous learning
 
 ---
 
-## 💡 A bit about me
+## 🛠️ Tech Stack
 
-- 🔐 Passionate about **cybersecurity** and ethical hacking  
-- 🌐 Also deeply interested in **web development** — I love turning ideas into real interactive sites   
-- 🎯 I'm all about **constant growth**, **learning**, and building **useful skills**  
+**Languages**
+- C++, Java, HTML, CSS
+- JavaScript *(currently learning)*
 
----
+**Databases**
+- Oracle, SQLite, Looping, Mocodo
 
-## 🧠 Skills & Tools
+**Design & Tools**
+- Figma, Penpot
 
-### Languages I know
-- 💻 `C++`, `Java`, `HTML`, `CSS`
-
-### Database
-- 💻 `Oracle`, `SQLite`, `Looping`, `Mocodo`
-
-### Design tools
-- 🎨 `Figma`, `Penpot`
-
-### Currently learning
-- 🚀 `JavaScript` (and loving it!)
+**Exploring**
+- PHP 
 
 ---
 
-## 📌 Pinned Projects
+## 🌟 Featured Projects
 
-Here are a few things I've worked on or maintained:
+**🥋 [Karate Club Website](https://lemeekarate.fr/)**  
+Website I maintain for my former sports club
 
-- 🥋 **Karate Club Website** – Static website I maintain for my old sports club → [Visit site](https://lemeekarate.fr/)  
-- 🌐 **Portfolio in progress** – A personal website project to showcase my skills and goals (coming soon!)
-
----
-
-## 🌟 Fun facts
-
-- 🥋 Used to do **karate** and 🏐 **handball**
-- 🎶 I love **music**, 🎬 **cinema**, and staying active through **sports**
+**🌐 Portfolio**  
+Personal showcase website *(in development)*
 
 ---
 
-## 🚀 My goals
+## 🎯 Goals & Interests
 
-- ✅ Become a **cybersecurity expert**
-- 💥 Work as a **pentester**
-- 🔁 Keep **learning every day** and take on new challenges!
+- Becoming a **cybersecurity expert** and **pentester**
+- Building engaging **web experiences**
+- **Continuous learning** and skill development
 
 ---
 
-Thanks for stopping by! 🙌  
+## 🎨 Beyond Code
+
+Sports background: **karate** and **handball** player • Music enthusiast • Video game lover
+
+---
+
+*Always open to connecting and learning from the community!*
