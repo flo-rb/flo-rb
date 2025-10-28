@@ -1,7 +1,7 @@
-# 👋 Hey there! I'm Florence
+# Hey there! I'm Florence
 
-🎓 **Computer Science Student** passionate about **cybersecurity** and **web development**  
-🔐 Aspiring **pentester** with a love for ethical hacking and continuous learning
+**Computer Science Student** passionate about **cybersecurity** and **web development**  
+Aspiring **pentester** with a love for ethical hacking and continuous learning
 
 ---
 
@@ -22,17 +22,17 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 **🥋 [Karate Club Website](https://lemeekarate.fr/)**  
 Website I maintain for my former sports club
 
-**🌐 Portfolio**  
+**Portfolio**  
 Personal showcase website *(in development)*
 
 ---
 
-## 🎯 Goals & Interests
+## Goals & Interests
 
 - Becoming a **cybersecurity expert** and **pentester**
 - Building engaging **web experiences**
@@ -40,7 +40,7 @@ Personal showcase website *(in development)*
 
 ---
 
-## 🎨 Beyond Code
+## Beyond Code
 
 Sports background: **karate** and **handball** player • Music enthusiast • Video game lover
 
