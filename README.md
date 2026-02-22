@@ -1,49 +1,30 @@
-# Hey there! I'm Florence
+# 💫 About Me:
+🎓 2nd-year Computer Science Student (BUT Informatique) in France.
 
-**Computer Science Student** passionate about **cybersecurity** and **web development**  
-Aspiring **pentester** with a love for ethical hacking and continuous learning
+🛡️ Aspiring DevSecOps Engineer with a strong interest in CyberSecurity.
 
----
+🚀 I’m currently working on: Academic projects and building a solid foundation in secure development.
 
-## 🛠️ Tech Stack
+🌱 I’m currently learning: Next.js, and Docker.
 
-**Languages**
-- C++, Java, HTML, CSS
-- JavaScript *(currently learning)*
+⚡ Fun fact: I'm a student who love sports and video games!
 
-**Databases**
-- Oracle, SQLite, Looping, Mocodo
+📚 Goal: Learning something new every day to bridge the gap between Dev and Ops.
 
-**Design & Tools**
-- Figma, Penpot
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/florence-regnier-beck/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fregnierbeck@gmail.com) 
 
-**Exploring**
-- PHP 
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=flo-rb&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=flo-rb&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-rb&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Featured Projects
+
+# Featured Projects
 
 **🥋 [Karate Club Website](https://lemeekarate.fr/)**  
 Website I maintain for my former sports club
 
-**Portfolio**  
-Personal showcase website *(in development)*
-
----
-
-## Goals & Interests
-
-- Becoming a **cybersecurity expert** and **pentester**
-- Building engaging **web experiences**
-- **Continuous learning** and skill development
-
----
-
-## Beyond Code
-
-Sports background: **karate** and **handball** player • Music enthusiast • Video game lover
-
----
-
-*Always open to connecting and learning from the community!*
